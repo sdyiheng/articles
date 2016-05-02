@@ -1,4 +1,7 @@
 # articles
+
+转载：http://www.open-open.com/lib/view/open1416968753752.html
+
 技术站点
 •Hacker News：非常棒的针对编程的链接聚合网站
 •Programming reddit：同上
